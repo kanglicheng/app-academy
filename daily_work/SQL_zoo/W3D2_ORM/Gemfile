@@ -1,0 +1,3 @@
+bundle init
+gem 'sqlite3'
+bundle install
